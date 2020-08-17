@@ -74,4 +74,5 @@
     <string name="title_edit_token">Edit API Token</string>
     <string name="text_tips">You can also login and get tokens here</string>
     <string name="msg_required_field">This field is required</string>
+    <string name="mention_format">"[To:%d] %s\n"</string>
 </resources>
